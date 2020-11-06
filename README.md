@@ -1,9 +1,12 @@
 # How To Run This Program
 
+## You have to import backend to make you easier when running backend
+clone employee-database in this link  https://github.com/ismatul67/employee-database
+
 ## Run Backend
 
 ```
-1. Before you run backend make sure you have import database, read step-run-program.docx
+1. Before you run backend make sure you have import database
 2. install jdk 8
 3. install maven
 4. open employee-backend using document reader

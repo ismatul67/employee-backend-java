@@ -2,6 +2,7 @@
 
 ## You have to import backend to make you easier when running backend
 clone employee-database in this link  https://github.com/ismatul67/employee-database
+before you import the database, you should read the instruction in readme.md in employee-database
 
 ## Run Backend
 
